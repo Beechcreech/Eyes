@@ -1,6 +1,6 @@
 # Eyes
 ## Project Description
-In this project for class we used our knowledge of the DOM and working with arrays and functions to complete this. When the code is run a pac-man character moves accross the screen, then turns once its reached the end of the screen, this loops continously.
+In this project for class we used our knowledge of javascript, html, and css and the relationship between them to get this project done. We created the shape and color of the eyes in the css file, we expressed the functionality of the eyes in the eyes.js file, and we loaded everthing in the index.html file.
 
 ## How to Run
 You can run this by either cloning the repository, or downloading a copy of the entire repository.
